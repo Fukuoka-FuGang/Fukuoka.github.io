@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Florrio Custom Language Pack</title>
+<style>
+pre {
+  white-space: pre‑wrap;
+  font-family: Consolas, monospace;
+  font-size:13px;
+  padding:16px;
+  margin:0;
+}
+body { margin:0; background:#f7f7f7; }
+</style>
+</head>
+<body>
+<pre id="box"></pre>
+<script>
+// 读取同目录下 customlanguagepack.txt
+fetch("./customlanguagepack.txt")
+.then(res=>{
+  if(!res.ok) throw new Error("加载失败 "+res.status);
+  return res.text();
+})
+.then(text=>{
+  document.getElementById("box").innerText = text;
+})
+.catch(err=>{
+  document.getElementById("box").innerText = "加载出错："+err.message;
+});
+</script>
+</body>
+</html>
