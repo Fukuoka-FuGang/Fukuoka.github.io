@@ -1311,7 +1311,7 @@ Petals/beetle_egg/Name=Bgg
 Petals/beetle_egg/FullName=Beetle Egg
 Petals/beetle_egg/Description=Something interesting might pop out of this.
 
-Petals/antennae/Name=Visoin
+Petals/antennae/Name=Visioion
 Petals/antennae/FullName=Antennae
 Petals/antennae/Description=Allows your flower to sense foes farther away.
 
