@@ -1311,11 +1311,11 @@ Petals/beetle_egg/Name=Bgg
 Petals/beetle_egg/FullName=Beetle Egg
 Petals/beetle_egg/Description=Something interesting might pop out of this.
 
-Petals/antennae/Name=Visioion
+Petals/antennae/Name=Vision
 Petals/antennae/FullName=Antennae
 Petals/antennae/Description=Allows your flower to sense foes farther away.
 
-Petals/heavy/Name=Heavy
+Petals/heavy/Name=Heavist
 Petals/heavy/FullName=Heavy
 Petals/heavy/Description=This thing is so heavy that nothing gets in the way.<n/>Slows down petal rotation speed when equipped.
 
@@ -1323,7 +1323,7 @@ Petals/yin_yang/Name=Ba Gua
 Petals/yin_yang/FullName=Yin Yang
 Petals/yin_yang/Description=This mysterious petal affects the rotation of your petals in unpredictable ways.
 
-Petals/web/Name=Web
+Petals/web/Name=Net
 Petals/web/FullName=Web
 Petals/web/Description=It's really sticky.
 
@@ -1343,7 +1343,7 @@ Petals/rice/Name=Rice
 Petals/rice/FullName=Rice
 Petals/rice/Description=Spawns very quickly, but not very strong.
 
-Petals/corn/Name=Corn
+Petals/corn/Name=Maize
 Petals/corn/FullName=Corn
 Petals/corn/Description=Takes a long time to spawn, but has a lot of health.
 
@@ -1355,7 +1355,7 @@ Petals/pincer/Name=Forceps
 Petals/pincer/FullName=Pincer
 Petals/pincer/Description=Debilitates enemies temporarily, reducing their movement speed.
 
-Petals/yucca/Name=Yucca
+Petals/yucca/Name=Tea
 Petals/yucca/FullName=Yucca
 Petals/yucca/Description=Heals your flower but only while in the defensive position.
 
@@ -1375,15 +1375,15 @@ Petals/pearl/Name=Jewelry
 Petals/pearl/FullName=Pearl
 Petals/pearl/Description=Just drop it off somewhere and use your kinetic powers so you don't lose it.
 
-Petals/lightning/Name=Lightning
+Petals/lightning/Name=Thunder
 Petals/lightning/FullName=Lightning
 Petals/lightning/Description=Strikes several nearby enemies.
 
-Petals/jelly/Name=Jelly
+Petals/jelly/Name=rebound
 Petals/jelly/FullName=Jelly
 Petals/jelly/Description=No one likes touching this.
 
-Petals/claw/Name=Crab Claw
+Petals/claw/Name=Chelicera
 Petals/claw/FullName=Claw
 Petals/claw/Description=Deals extra damage if the victim is above 80% health.<n/>-50% damage vs other flowers.
 
@@ -1519,7 +1519,7 @@ Petals/talisman/Name=Talisman
 Petals/talisman/FullName=Talisman of Evasion
 Petals/talisman/Description=A necklace that allows the wearer to anticipate enemy attacks.
 
-Petals/battery/Name=Battery
+Petals/battery/Name=永信.杨
 Petals/battery/FullName=Battery
 Petals/battery/Description=Discharges electricity whenever the flower gets hit.
 
@@ -1547,7 +1547,7 @@ Petals/chip/Name=Chip
 Petals/chip/FullName=Poker Chip
 Petals/chip/Description=ALL IN.
 
-Petals/card/Name=Card
+Petals/card/Name=Poker
 Petals/card/FullName=Card
 Petals/card/Description=A playing card. Likely marked.
 
@@ -1567,7 +1567,7 @@ Petals/corruption/Name=Corruption
 Petals/corruption/FullName=Corruption
 Petals/corruption/Description=Corrupts one's soul, turning them against their own kind.
 
-Petals/orb/Name=Orb
+Petals/orb/Name=Magic Rose
 Petals/orb/FullName=Mana Orb
 Petals/orb/Description=Creates mana.
 
@@ -1631,7 +1631,7 @@ Petals/mjolnir/unique/Name=Hammer
 Petals/mjolnir/unique/FullName=MjÃ¶lnir
 Petals/mjolnir/unique/Description=Only the most powerful hammer in the universe.
 
-Petals/mecha_missile/Name=Rocketz
+Petals/mecha_missile/Name=Rocket
 Petals/mecha_missile/FullName=Mecha Missile
 Petals/mecha_missile/Description=Locked on.
 
