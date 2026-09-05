@@ -2177,7 +2177,7 @@ UI/Social/QQ=鍔犲叆鎴戜滑鐨凲Q缇�!
 UI/AbandonGame=Abandon game
 UI/Reconnecting=Connection lost, reconnecting...
 
-UI/LevelBar/Level=Level {0}/155
+UI/LevelBar/Level=Level {0}/200
 UI/LevelBar/LevelLong=Lvl {0} Flower
 UI/LevelBar/XP={0}/{1} XP
 UI/LevelBar/LevelAndXP=Level {0} - {1}/{2} XP
@@ -2354,8 +2354,8 @@ UI/Talent/Reset=Reset
 UI/Talent/HoldToUpgrade=HOLD to upgrade
 UI/Talent/HoldToRemove=HOLD to remove
 
-UI/Craft/Title=失败的合成
-UI/Craft/Button=
+UI/Craft/Title=Failed Crafter
+UI/Craft/Button=Never Click
 UI/Craft/Chance={0:perc}% success chance
 UI/Craft/UnknownChance=?% success chance
 UI/Craft/CombineInstructions=Combine {0} of the same petal to craft an upgrade
